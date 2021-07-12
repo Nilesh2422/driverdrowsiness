@@ -1,6 +1,6 @@
 # diver-drowsiness-detection
 READ ME FILE
-PRITHISH KUMAR RATH
+NILESH NISHANT
 
 Drowsiness Detection in Drivers using Deep Learning Training
 This is available in the training folder
